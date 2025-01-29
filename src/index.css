@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-White: #ffffff;
+  --color-Lightpink: #f9f0ff;
+  --color-Grayish-purple: #8c6991;
+  --color-Dark-purple: #2f1533;
+
+  --font-display: "Work Sans", serif;
+}
